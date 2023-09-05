@@ -3,7 +3,7 @@
 <h3 align="center">A passionate android developer from India</h3>
 <div style="margin-left: 20px;">
 
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/afbfa6ea06dbf48e7520727dc7a1fb5cbec1e88fbf0efa0c37d26965ae713b13/68747470733a2f2f6d656469612e74656e6f722e636f6d2f347279783636745745686341414141642f706978656c2d73747564792e676966" width="600"/>
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/afbfa6ea06dbf48e7520727dc7a1fb5cbec1e88fbf0efa0c37d26965ae713b13/68747470733a2f2f6d656469612e74656e6f722e636f6d2f347279783636745745686341414141642f706978656c2d73747564792e676966" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shady2027&label=Profile%20views&color=0e75b6&style=flat" alt="shady2027" /> </p>
 
